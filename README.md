@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mudassir1335
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m expert In PHP.
 - 📫 How to reach me Whatsapp +923486698915
 
 <!---
